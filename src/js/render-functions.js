@@ -30,7 +30,6 @@ export function createGallery(images) {
             </li>`
         })
         .join("");
-        console.log(images);
         
     gallery.innerHTML = markup;
     lightbox.refresh();
