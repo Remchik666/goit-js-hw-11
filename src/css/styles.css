@@ -140,7 +140,7 @@ button[type="submit"]:hover {
 
 .img-container img {
   width: 100%;
-  height: calc((100% - 48px) / 3);
+  height: 300px;
   object-fit:cover;
 }
 
